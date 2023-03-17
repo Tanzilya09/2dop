@@ -13,4 +13,5 @@ class MainViewModel : ViewModel() {
         list.value = random
         return list
     }
+
 }

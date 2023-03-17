@@ -31,4 +31,5 @@ class MainActivity : AppCompatActivity() {
             binding.txt.text = it.toString()
         }
     }
+
 }
